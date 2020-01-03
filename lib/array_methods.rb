@@ -5,7 +5,8 @@ end
 def find_max_value(array)
   candidateindex = 0
   array.length.times {
-    if array.candidateindex > array.(candidateindex + 1)
+    if array[candidateindex] < array[index]
+      candidateindex = index
   }
 end
 
