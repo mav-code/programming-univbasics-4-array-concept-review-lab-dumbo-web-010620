@@ -8,7 +8,7 @@ def find_max_value(array)
     if array[candidateindex] < array[index]
       candidateindex = index
   }
-  puts array.candidateindex
+  p array.candidateindex
 end
 
 def find_min_value(array)
