@@ -9,7 +9,7 @@ def find_max_value(array)
       candidateindex = index
     end
   }
-  p array.candidateindex
+  puts array.candidateindex
 end
 
 def find_min_value(array)
